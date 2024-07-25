@@ -1,4 +1,4 @@
 function ProjectStartup
-proj = CurrentProject;
+proj = currentProject;
 cd(proj.RootFolder)
 end
